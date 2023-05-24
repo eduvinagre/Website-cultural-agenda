@@ -1,4 +1,18 @@
-## Cultural project site, with an agenda and a follow up for events
-Made for Alura
+# Cultural Agenda
+
+## Screenshot
 
 ![main](https://github.com/eduvinagre/site-eventosculturais-culturama/blob/main/Culturama.png)
+
+## Deploy
+
+https://site-eventosculturais-culturama.vercel.app
+
+## Built With
+
+- HTML
+- CSS
+
+## Objective
+
+Improve my CSS skills using Flex Box and Flex Grid
